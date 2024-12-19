@@ -1,6 +1,5 @@
-nombre = "Yahaira"
+nombre = "Soy"
 apellido = "Cheverez"
 
-print("Hola "+ nombre + " " + apellido + " Como estas?") 
-saludo = "Hola "+ nombre + " " + apellido
+saludo = "Hola "+ nombre + " " + apellido + " Como estas?"
 print (saludo)
